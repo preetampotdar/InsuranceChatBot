@@ -1,5 +1,5 @@
 /*
-Copyleft (C) 2005-2006 Hélio Perroni Filho
+Copyleft (C) 2005-2006 Hï¿½lio Perroni Filho
 xperroni@yahoo.com
 ICQ: 2490863
 
@@ -287,7 +287,7 @@ public class ChatterBean extends JApplet
   /**
   Main entry point.
   */
-  public static void main(String[] args) throws Exception
+  public static void main2(String[] args) throws Exception
   {
     ChatterBean applet = new ChatterBean(args[0]);
     
