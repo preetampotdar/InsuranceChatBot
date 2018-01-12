@@ -20,6 +20,8 @@ public class ReqRespController {
 			AliceBot mybot = mother.newInstance();
 			String ask = reqString; //Here You can ask Dynamic question.
 			str2 = "<p>"+mybot.respond(ask)+"</p>";
+			
+			
 			System.out.println(str2);
 			}
 			catch(Exception ex)
